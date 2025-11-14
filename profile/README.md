@@ -12,20 +12,20 @@ This GitHub organization hosts public and selected internal repositories used ac
 If you are interested in understanding our development standards or contributing to our projects, refer to the following documentation:
 
 - **Contribution Guidelines**  
-  [CONTRIBUTING.md](./CONTRIBUTING.md)
+  [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 - **Issue Workflow**  
-  [ISSUE_WORKFLOW.md](./ISSUE_WORKFLOW.md)
+  [ISSUE_WORKFLOW.md](../ISSUE_WORKFLOW.md)
 
 - **Security Policy**  
-  [SECURITY.md](./SECURITY.md)
+  [SECURITY.md](../SECURITY.md)
 
 - **Pull Request Template**  
-  [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE.md)
+  [PULL_REQUEST_TEMPLATE.md](../PULL_REQUEST_TEMPLATE.md)
 
 - **Issue Templates**  
-  - Bug Report: [ISSUE_TEMPLATE/bug_report.md](./ISSUE_TEMPLATE/bug_report.md)  
-  - Feature Request: [ISSUE_TEMPLATE/feature_request.md](./ISSUE_TEMPLATE/feature_request.md)
+  - Bug Report: [ISSUE_TEMPLATE/bug_report.md](../ISSUE_TEMPLATE/bug_report.md)  
+  - Feature Request: [ISSUE_TEMPLATE/feature_request.md](../ISSUE_TEMPLATE/feature_request.md)
 
 These documents outline our processes for contributions, issue handling, security reporting, and pull requests.
 
