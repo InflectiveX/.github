@@ -1,25 +1,45 @@
-# **Inflectivex**
+# Inflectivex
 
-Technology at Inflectivex focuses on building modern, reliable, and scalable digital solutions. Our work spans web engineering, mobile applications, and artificial intelligence, with a commitment to high-quality engineering practices and long-term maintainability.
+Inflectivex is a technology engineering company focused on building reliable, scalable, and maintainable digital solutions.  
+Our work covers web engineering, mobile application development, and AI/ML systems, with an emphasis on engineering quality and long-term stability.
 
-Inflectivex delivers software that enables businesses to innovate, operate more efficiently, and create meaningful digital experiences for their users.
-
----
-
-## **Get Involved**
-
-Inflectivex develops and maintains software across a variety of internal and client-focused projects. If you are exploring our public repositories or looking to engage with our work, here are a few ways to get started:
-
-* Browse available repositories within the organization
-* Review documentation within individual projects
-* Use repository issues to submit feedback or request clarifications
-
-For inquiries, partnerships, or further information, contact:
-
-**[info@inflectivex.com](mailto:info@inflectivex.com)**
+This GitHub organization hosts public and selected internal repositories used across our engineering efforts.
 
 ---
 
-## **Additional Information**
+## Get Involved
 
-Individual repositories may define their own contribution guidelines, issue workflows, and licensing information. Please refer to the documentation within each project for more details.
+If you are interested in understanding our development standards or contributing to our projects, refer to the following documentation:
+
+- **Contribution Guidelines**  
+  [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+- **Issue Workflow**  
+  [ISSUE_WORKFLOW.md](./ISSUE_WORKFLOW.md)
+
+- **Security Policy**  
+  [SECURITY.md](./SECURITY.md)
+
+- **Pull Request Template**  
+  [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE.md)
+
+- **Issue Templates**  
+  - Bug Report: [ISSUE_TEMPLATE/bug_report.md](./ISSUE_TEMPLATE/bug_report.md)  
+  - Feature Request: [ISSUE_TEMPLATE/feature_request.md](./ISSUE_TEMPLATE/feature_request.md)
+
+These documents outline our processes for contributions, issue handling, security reporting, and pull requests.
+
+---
+
+## Contact
+
+For general inquiries or collaboration opportunities, you may contact:
+
+**info@inflectivex.com**
+
+---
+
+## Additional Information
+
+- Individual repositories may include project-specific documentation or licensing details.  
+- Organization-wide templates and standards are applied automatically through the `.github/` configuration directory.
